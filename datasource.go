@@ -1,5 +1,5 @@
 package sdk
-
+ 
 /*
    Copyright 2016 Alexander I.Grafov <grafov@gmail.com>
    Copyright 2016-2019 The Grafana SDK authors
