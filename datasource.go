@@ -24,6 +24,7 @@ package sdk
 type Datasource struct {
 	ID                uint        `json:"id"`
 	OrgID             uint        `json:"orgId"`
+	Uid               string      `json:"uid"`
 	Name              string      `json:"name"`
 	Type              string      `json:"type"`
 	Access            string      `json:"access"` // direct or proxy
